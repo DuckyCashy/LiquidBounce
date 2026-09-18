@@ -27,8 +27,6 @@ license.
 For those who are unfamiliar with the license, here is a summary of its main points. This is by no means legal advice
 nor legally binding.
 
-*Actions that you are allowed to do:*
-
 - Use
 - Share
 - Modify
